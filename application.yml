@@ -14,4 +14,4 @@ eureka:
       defaultZone: http://localhost:8080/eureka/
 ssso:
   user: 李四
-  age: 34
+  age: 13434
