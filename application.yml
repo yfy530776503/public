@@ -5,6 +5,9 @@ spring:
         enabled: true
         service-id: CONFIG
       profile: dev
+management:
+  security:
+    enabled: false
 eureka:
   client:
     service-url:
