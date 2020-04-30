@@ -29,3 +29,6 @@ eureka:
 logging:
   level:
     org.springframework.cloud.openfeign: debug
+ ssso:
+   user: 李四
+   age: 34
