@@ -13,5 +13,5 @@ eureka:
     service-url:
       defaultZone: http://localhost:8080/eureka/
 ssso:
-  user: 李四
+  user: 李四和张三
   age: 1314
