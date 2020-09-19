@@ -1,4 +1,4 @@
-spring:  
+4spring:  
   rabbitmq:
     host: localhost
     port: 5672
@@ -27,4 +27,4 @@ management:
         include: "*" 
 ssso:
   user: 李四不和张三
-  age: 1111
+  age: 1413
