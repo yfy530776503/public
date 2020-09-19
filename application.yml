@@ -27,4 +27,4 @@ management:
         include: "*" 
 ssso:
   user: 李四不和张三
-  age: 20000000
+  age: 1111
