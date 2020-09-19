@@ -1,7 +1,7 @@
 spring:  
   rabbitmq:
     host: localhost
-    port: 5672
+    port: 15672
     password: guest
     username: guest
    #开启配置服务发现
